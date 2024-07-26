@@ -1,0 +1,3 @@
+C:/Users/Kerem Donmez/Desktop/Minesweeper/build/CMakeFiles/Minesweeper.dir
+C:/Users/Kerem Donmez/Desktop/Minesweeper/build/CMakeFiles/edit_cache.dir
+C:/Users/Kerem Donmez/Desktop/Minesweeper/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+﻿  SFMLGECICI.cpp
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\SFMLGECICI.cpp(12,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\SFMLGECICI.cpp(12,71): warning C4244:         with
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\SFMLGECICI.cpp(12,71): warning C4244:         [
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\SFMLGECICI.cpp(12,71): warning C4244:             T=unsigned int
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\SFMLGECICI.cpp(12,71): warning C4244:         ]
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\SFMLGECICI.cpp(12,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\SFMLGECICI.cpp(12,51): warning C4244:         with
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\SFMLGECICI.cpp(12,51): warning C4244:         [
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\SFMLGECICI.cpp(12,51): warning C4244:             T=unsigned int
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\SFMLGECICI.cpp(12,51): warning C4244:         ]
+  Minesweeper.vcxproj -> C:\Users\Kerem Donmez\Desktop\Minesweeper\x64\Debug\Minesweeper.exe

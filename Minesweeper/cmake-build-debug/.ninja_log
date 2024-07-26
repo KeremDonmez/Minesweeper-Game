@@ -1,0 +1,9 @@
+# ninja log v5
+4	55	7374700496220496	CMakeFiles/Minesweeper.dir/game.cpp.obj	cae4c9294ca9d2bc
+2	141	7374701944439631	CMakeFiles/Minesweeper.dir/main.cpp.obj	a68ceac93dbcf3ae
+0	440	7374700500057548	CMakeFiles/Minesweeper.dir/board.cpp.obj	f7373f9af57ef9b7
+141	230	7374701945287018	Minesweeper.exe	ca61a5e90e624a89
+25	148	7392276857117447	CMakeFiles/Minesweeper.dir/sfmlMain.cpp.obj	3c747e65bac7df58
+16	149	7392276857127454	CMakeFiles/Minesweeper.dir/main.cpp.obj	a68ceac93dbcf3ae
+3	426	7392276859899677	CMakeFiles/Minesweeper.dir/game.cpp.obj	cae4c9294ca9d2bc
+8	555	7392276861181744	CMakeFiles/Minesweeper.dir/board.cpp.obj	f7373f9af57ef9b7

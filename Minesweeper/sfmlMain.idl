@@ -1,0 +1,9 @@
+namespace Minesweeper
+{
+    [default_interface]
+    runtimeclass sfmlMain : Windows.UI.Xaml.Controls.Page
+    {
+        sfmlMain();
+        Int32 MyProperty;
+    }
+}

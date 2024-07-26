@@ -1,0 +1,4 @@
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\x64\Debug\Minesweeper.vcxproj.MdMergeInputs.cache
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\x64\Debug\Minesweeper.vcxproj.cppwinrt_plat.cache
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\x64\Debug\Minesweeper.vcxproj.cppwinrt_comp.cache
+C:\Users\Kerem Donmez\Desktop\Minesweeper\x64\Debug\Minesweeper.winmd

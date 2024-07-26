@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Kerem Donmez/Desktop/Minesweeper/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Minesweeper.dir/includes_CXX.rsp -g -o CMakeFiles\\Minesweeper.dir\\board.cpp.obj -c \"C:\\Users\\Kerem Donmez\\Desktop\\Minesweeper\\Minesweeper\\board.cpp\"",
+  "file": "C:/Users/Kerem Donmez/Desktop/Minesweeper/Minesweeper/board.cpp",
+  "output": "CMakeFiles/Minesweeper.dir/board.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kerem Donmez/Desktop/Minesweeper/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Minesweeper.dir/includes_CXX.rsp -g -o CMakeFiles\\Minesweeper.dir\\game.cpp.obj -c \"C:\\Users\\Kerem Donmez\\Desktop\\Minesweeper\\Minesweeper\\game.cpp\"",
+  "file": "C:/Users/Kerem Donmez/Desktop/Minesweeper/Minesweeper/game.cpp",
+  "output": "CMakeFiles/Minesweeper.dir/game.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kerem Donmez/Desktop/Minesweeper/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Minesweeper.dir/includes_CXX.rsp -g -o CMakeFiles\\Minesweeper.dir\\main.cpp.obj -c \"C:\\Users\\Kerem Donmez\\Desktop\\Minesweeper\\Minesweeper\\main.cpp\"",
+  "file": "C:/Users/Kerem Donmez/Desktop/Minesweeper/Minesweeper/main.cpp",
+  "output": "CMakeFiles/Minesweeper.dir/main.cpp.obj"
+}
+]

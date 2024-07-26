@@ -1,0 +1,149 @@
+﻿  64 bit MIDLRT Processing C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\sfmlMain.idl
+  sfmlMain.idl
+  64 bit MIDLRT Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt\winrtbase.idl
+  winrtbase.idl
+  64 bit MIDLRT Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt\midlbase.idl
+  midlbase.idl
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ai.machinelearning.machinelearningcontract\5.0.0.0\windows.ai.machinelearning.machinelearningcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ai.machinelearning.preview.machinelearningpreviewcontract\2.0.0.0\windows.ai.machinelearning.preview.machinelearningpreviewcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.activation.activatedeventscontract\1.0.0.0\windows.applicationmodel.activation.activatedeventscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.activation.activationcamerasettingscontract\1.0.0.0\windows.applicationmodel.activation.activationcamerasettingscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.activation.contactactivatedeventscontract\1.0.0.0\windows.applicationmodel.activation.contactactivatedeventscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.activation.webuisearchactivatedeventscontract\1.0.0.0\windows.applicationmodel.activation.webuisearchactivatedeventscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.background.backgroundalarmapplicationcontract\1.0.0.0\windows.applicationmodel.background.backgroundalarmapplicationcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.calls.background.callsbackgroundcontract\4.0.0.0\windows.applicationmodel.calls.background.callsbackgroundcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.calls.callsphonecontract\7.0.0.0\windows.applicationmodel.calls.callsphonecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.calls.callsvoipcontract\4.0.0.0\windows.applicationmodel.calls.callsvoipcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.calls.lockscreencallcontract\1.0.0.0\windows.applicationmodel.calls.lockscreencallcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.communicationblocking.communicationblockingcontract\2.0.0.0\windows.applicationmodel.communicationblocking.communicationblockingcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.fulltrustappcontract\2.0.0.0\windows.applicationmodel.fulltrustappcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.preview.inkworkspace.previewinkworkspacecontract\1.0.0.0\windows.applicationmodel.preview.inkworkspace.previewinkworkspacecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.preview.notes.previewnotescontract\2.0.0.0\windows.applicationmodel.preview.notes.previewnotescontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.resources.management.resourceindexercontract\2.0.0.0\windows.applicationmodel.resources.management.resourceindexercontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.search.core.searchcorecontract\1.0.0.0\windows.applicationmodel.search.core.searchcorecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.search.searchcontract\1.0.0.0\windows.applicationmodel.search.searchcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.socialinfo.socialinfocontract\2.0.0.0\windows.applicationmodel.socialinfo.socialinfocontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.startuptaskcontract\3.0.0.0\windows.applicationmodel.startuptaskcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.applicationmodel.wallet.walletcontract\2.0.0.0\windows.applicationmodel.wallet.walletcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.devices.custom.customdevicecontract\1.0.0.0\windows.devices.custom.customdevicecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.devices.deviceslowlevelcontract\3.0.0.0\windows.devices.deviceslowlevelcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.devices.portable.portabledevicecontract\1.0.0.0\windows.devices.portable.portabledevicecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.devices.printers.extensions.extensionscontract\2.0.0.0\windows.devices.printers.extensions.extensionscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.devices.printers.printerscontract\1.0.0.0\windows.devices.printers.printerscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.devices.scanners.scannerdevicecontract\1.0.0.0\windows.devices.scanners.scannerdevicecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.devices.smartcards.smartcardbackgroundtriggercontract\3.0.0.0\windows.devices.smartcards.smartcardbackgroundtriggercontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.devices.smartcards.smartcardemulatorcontract\6.0.0.0\windows.devices.smartcards.smartcardemulatorcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.devices.sms.legacysmsapicontract\1.0.0.0\windows.devices.sms.legacysmsapicontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.embedded.devicelockdown.devicelockdowncontract\1.0.0.0\windows.embedded.devicelockdown.devicelockdowncontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.foundation.foundationcontract\4.0.0.0\windows.foundation.foundationcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.foundation.universalapicontract\15.0.0.0\windows.foundation.universalapicontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.gaming.input.gaminginputpreviewcontract\2.0.0.0\windows.gaming.input.gaminginputpreviewcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.gaming.preview.gamesenumerationcontract\2.0.0.0\windows.gaming.preview.gamesenumerationcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.gaming.ui.gamechatoverlaycontract\1.0.0.0\windows.gaming.ui.gamechatoverlaycontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.gaming.ui.gaminguiprovidercontract\1.0.0.0\windows.gaming.ui.gaminguiprovidercontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.gaming.xboxlive.storageapicontract\1.0.0.0\windows.gaming.xboxlive.storageapicontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.globalization.globalizationjapanesephoneticanalyzercontract\1.0.0.0\windows.globalization.globalizationjapanesephoneticanalyzercontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.graphics.printing3d.printing3dcontract\4.0.0.0\windows.graphics.printing3d.printing3dcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.management.deployment.preview.deploymentpreviewcontract\1.0.0.0\windows.management.deployment.preview.deploymentpreviewcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.management.deployment.sharedpackagecontainercontract\1.0.0.0\windows.management.deployment.sharedpackagecontainercontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.management.update.windowsupdatecontract\1.0.0.0\windows.management.update.windowsupdatecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.management.workplace.workplacesettingscontract\1.0.0.0\windows.management.workplace.workplacesettingscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.media.appbroadcasting.appbroadcastingcontract\1.0.0.0\windows.media.appbroadcasting.appbroadcastingcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.media.apprecording.apprecordingcontract\1.0.0.0\windows.media.apprecording.apprecordingcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.media.capture.appbroadcastcontract\2.0.0.0\windows.media.capture.appbroadcastcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.media.capture.appcapturecontract\4.0.0.0\windows.media.capture.appcapturecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.media.capture.appcapturemetadatacontract\1.0.0.0\windows.media.capture.appcapturemetadatacontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.media.capture.cameracaptureuicontract\1.0.0.0\windows.media.capture.cameracaptureuicontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.media.capture.gamebarcontract\1.0.0.0\windows.media.capture.gamebarcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.media.devices.callcontrolcontract\1.0.0.0\windows.media.devices.callcontrolcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.media.mediacontrolcontract\1.0.0.0\windows.media.mediacontrolcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.media.playlists.playlistscontract\1.0.0.0\windows.media.playlists.playlistscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.media.protection.protectionrenewalcontract\1.0.0.0\windows.media.protection.protectionrenewalcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.networking.connectivity.wwancontract\2.0.0.0\windows.networking.connectivity.wwancontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.networking.networkoperators.legacynetworkoperatorscontract\1.0.0.0\windows.networking.networkoperators.legacynetworkoperatorscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.networking.networkoperators.networkoperatorsfdncontract\1.0.0.0\windows.networking.networkoperators.networkoperatorsfdncontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.networking.sockets.controlchanneltriggercontract\3.0.0.0\windows.networking.sockets.controlchanneltriggercontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.networking.xboxlive.xboxlivesecuresocketscontract\1.0.0.0\windows.networking.xboxlive.xboxlivesecuresocketscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.perception.automation.core.perceptionautomationcorecontract\1.0.0.0\windows.perception.automation.core.perceptionautomationcorecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.phone.phonecontract\1.0.0.0\windows.phone.phonecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.phone.startscreen.dualsimtilecontract\1.0.0.0\windows.phone.startscreen.dualsimtilecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.security.enterprisedata.enterprisedatacontract\5.0.0.0\windows.security.enterprisedata.enterprisedatacontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.security.exchangeactivesyncprovisioning.eascontract\1.0.0.0\windows.security.exchangeactivesyncprovisioning.eascontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.security.isolation.isolatedwindowsenvironmentcontract\4.0.0.0\windows.security.isolation.isolatedwindowsenvironmentcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.services.maps.guidancecontract\3.0.0.0\windows.services.maps.guidancecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.services.maps.localsearchcontract\4.0.0.0\windows.services.maps.localsearchcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.services.store.storecontract\4.0.0.0\windows.services.store.storecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.services.targetedcontent.targetedcontentcontract\1.0.0.0\windows.services.targetedcontent.targetedcontentcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.storage.provider.cloudfilescontract\7.0.0.0\windows.storage.provider.cloudfilescontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.system.profile.platformautomaticappsignincontract\1.0.0.0\windows.system.profile.platformautomaticappsignincontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.system.profile.profilehardwaretokencontract\1.0.0.0\windows.system.profile.profilehardwaretokencontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.system.profile.profileretailinfocontract\1.0.0.0\windows.system.profile.profileretailinfocontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.system.profile.profilesharedmodecontract\2.0.0.0\windows.system.profile.profilesharedmodecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.system.profile.systemmanufacturers.systemmanufacturerscontract\3.0.0.0\windows.system.profile.systemmanufacturers.systemmanufacturerscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.system.systemmanagementcontract\7.0.0.0\windows.system.systemmanagementcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.system.userprofile.userprofilecontract\2.0.0.0\windows.system.userprofile.userprofilecontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.system.userprofile.userprofilelockscreencontract\1.0.0.0\windows.system.userprofile.userprofilelockscreencontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ui.applicationsettings.applicationssettingscontract\1.0.0.0\windows.ui.applicationsettings.applicationssettingscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ui.core.animationmetrics.animationmetricscontract\1.0.0.0\windows.ui.core.animationmetrics.animationmetricscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ui.core.corewindowdialogscontract\1.0.0.0\windows.ui.core.corewindowdialogscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ui.core.preview.communications.previewcommunicationscontract\1.0.0.0\windows.ui.core.preview.communications.previewcommunicationscontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ui.shell.securityappmanagercontract\1.0.0.0\windows.ui.shell.securityappmanagercontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ui.shell.windowtabmanagercontract\1.0.0.0\windows.ui.shell.windowtabmanagercontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ui.uiautomation.uiautomationcontract\2.0.0.0\windows.ui.uiautomation.uiautomationcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract\1.0.0.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ui.webui.core.webuicommandbarcontract\1.0.0.0\windows.ui.webui.core.webuicommandbarcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ui.xaml.core.direct.xamldirectcontract\5.0.0.0\windows.ui.xaml.core.direct.xamldirectcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.ui.xaml.hosting.hostingcontract\5.0.0.0\windows.ui.xaml.hosting.hostingcontract.winmd
+  Processing WinMD c:\program files (x86)\windows kits\10\references\10.0.22621.0\windows.web.http.diagnostics.httpdiagnosticscontract\2.0.0.0\windows.web.http.diagnostics.httpdiagnosticscontract.winmd
+  Microsoft(R) Metadata Merge Utility Version 10.0.49.
+  
+  
+  Processing input metadata file x64\Release\Unmerged\sfmlMain.winmd.
+  Saved output metadata file Minesweeper.winmd.
+  Validating metadata file x64\Release\Merged\Minesweeper.winmd.
+  board.cpp
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\board.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\board.cpp(16,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\board.cpp(19,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\board.cpp(22,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  game.cpp
+  main.cpp
+  MSBoardTextView.cpp
+  MSSFMLController.cpp
+  MSSFMLView.cpp
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(137,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(137,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(142,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(142,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(147,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(147,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(152,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(152,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(157,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(157,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(162,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(162,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(167,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(167,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(172,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(172,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(177,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(177,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(182,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(182,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(187,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(187,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(192,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(192,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(201,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kerem Donmez\Desktop\Minesweeper\Minesweeper\MSSFMLView.cpp(201,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  sfmlMain.cpp
+MSBoardTextView.obj : error LNK2005: "public: void __cdecl MSTextController::play(void)" (?play@MSTextController@@QEAAXXZ) already defined in game.obj
+MSBoardTextView.obj : error LNK2005: "public: __cdecl MSTextController::MSTextController(class Board &,class MSBoardTextView &)" (??0MSTextController@@QEAA@AEAVBoard@@AEAVMSBoardTextView@@@Z) already defined in game.obj
+MSBoardTextView.obj : error LNK2005: "public: void __cdecl MSBoardTextView::display(void)const " (?display@MSBoardTextView@@QEBAXXZ) already defined in game.obj
+MSBoardTextView.obj : error LNK2005: "public: __cdecl MSBoardTextView::MSBoardTextView(class Board const &)" (??0MSBoardTextView@@QEAA@AEBVBoard@@@Z) already defined in game.obj
+MSSFMLController.obj : error LNK2001: unresolved external symbol "public: int __cdecl MSSFMLView::getCellSize(void)const " (?getCellSize@MSSFMLView@@QEBAHXZ)
+MSSFMLController.obj : error LNK2001: unresolved external symbol "public: int __cdecl MSSFMLView::getOffsetY(void)const " (?getOffsetY@MSSFMLView@@QEBAHXZ)
+MSSFMLController.obj : error LNK2001: unresolved external symbol "public: int __cdecl MSSFMLView::getOffsetX(void)const " (?getOffsetX@MSSFMLView@@QEBAHXZ)
+MSSFMLController.obj : error LNK2001: unresolved external symbol "public: class sf::RenderWindow & __cdecl MSSFMLView::getWindow(void)" (?getWindow@MSSFMLView@@QEAAAEAVRenderWindow@sf@@XZ)
+C:\Users\Kerem Donmez\Desktop\Minesweeper\x64\Release\Minesweeper.exe : fatal error LNK1120: 4 unresolved externals
